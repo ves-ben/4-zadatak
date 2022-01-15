@@ -1,0 +1,36 @@
+body {
+    margin: 0px;
+}
+
+.title {
+    text-align: center;
+    font-size: 5em;
+    font-family: Tahoma;
+    font-weight: bold;
+    color: grey;
+    margin: 10px;
+}
+
+hr {
+    height: 3px;
+    background-color: grey;
+    border-width: 0px;
+}
+
+.footer {
+    text-align: center;
+    background-color: grey;
+    color: white;
+    font-family: Tahoma;
+}
+
+div { 
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    width: 30%;
+    display: inline-flex;
+}
+
+p {
+    text-align: justify;
+}
